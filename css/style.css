@@ -2,7 +2,6 @@
 .wrapper{
   width: 400px;
   height: 450px;
-  float:left
 }
 .red-box {
   width: 400px;
@@ -18,21 +17,19 @@
   width: 150px;
   height: 250px;
   background: #00ff51;
-  float: left;
+}
+.container{
+  float: right;
 }
 .pink-box {
   width: 150px;
   height: 50px;
   background: #cc00db;
-  float: left;
 }
-
-
 .blue-box {
   width: 150px;
   height: 100px;
   background: #0093b7;
-  float: left;
 }
 .beige-box {
   height: 150px;
@@ -44,7 +41,7 @@
   width: 250px;
   height:  100px;
   background: #8c2727;
-  float: left;
+  float: right;
 }
 .yellow-box {
   width: 400px;
