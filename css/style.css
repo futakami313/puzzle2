@@ -1,7 +1,6 @@
 @charset "utf-8";
 .wrapper{
   width: 400px;
-  height: 450px;
 }
 .red-box {
   width: 400px;
@@ -13,13 +12,15 @@
   display: block;
   clear: both;
 }
-.green-box {
-  width: 150px;
-  height: 250px;
-  background: #00ff51;
-}
 .container{
+  width: 250px;
   float: right;
+}
+.beige-box {
+  width: 100px;
+  height: 150px;
+  background: #ff9e6b;
+  float:right;
 }
 .pink-box {
   width: 150px;
@@ -31,17 +32,16 @@
   height: 100px;
   background: #0093b7;
 }
-.beige-box {
-  height: 150px;
-  width: 100px;
-  background: #ff9e6b;
-  float: right;
-}
 .brown-box{
   width: 250px;
   height:  100px;
   background: #8c2727;
-  float: right;
+}
+.green-box {
+  width: 150px;
+  height: 250px;
+  background: #00ff51;
+  float:right;
 }
 .yellow-box {
   width: 400px;
