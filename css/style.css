@@ -14,13 +14,21 @@
 }
 .container{
   width: 250px;
-  float: right;
+  float: left;
+}
+.container2{
+  width: 250px;
+  float: left;
+}
+.container3{
+  width: 150px;
+  float: left;
 }
 .beige-box {
   width: 100px;
   height: 150px;
   background: #ff9e6b;
-  float:right;
+  float: left;
 }
 .pink-box {
   width: 150px;
@@ -41,7 +49,7 @@
   width: 150px;
   height: 250px;
   background: #00ff51;
-  float:right;
+  float: left;
 }
 .yellow-box {
   width: 400px;
